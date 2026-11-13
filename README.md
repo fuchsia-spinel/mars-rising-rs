@@ -12,6 +12,8 @@ There are keys that allow you to "cheat" built in. You can see them when the gam
 
 I will not distribute the assets. You have to get them yourself. Instructions are below. Simply put the executable next to the `assets` folder the script generates to play.
 
+You can download a prebuilt copy [here](https://github.com/fuchsia-spinel/mars-rising-rs/releases/download/Windows/Mars.Rising.exe).
+
 ---
 
 A Rust reimplementation of Ambrosia Software's *Mars Rising* (1998, Mac, PowerPC). The port **never reads Mac
