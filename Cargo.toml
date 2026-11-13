@@ -1,0 +1,32 @@
+[package]
+name = "mars_rising"
+version = "0.1.0"
+edition = "2021"
+description = "Rust port of Ambrosia Software's Mars Rising (1998): asset loading + level viewer. Reads files produced by mr_extract.py."
+
+[features]
+default = ["window", "audio"]
+# The `play` and `viewer` windows (raylib, through raylib-rs 6.0; its first build compiles raylib itself and needs CMake and a C compiler).
+# `--no-default-features` builds only the library and the tests (no window, no sound).
+window = ["dep:raylib"]
+# Sound output of the `play` binary through rodio (needs ALSA development files on Linux: libasound2-dev). `--no-default-features --features window` builds a
+# silent `play` (the sound engine still runs).
+audio = ["dep:rodio"]
+
+[dependencies]
+rodio = { version = "=0.20.1", default-features = false, optional = true }
+png = "0.17"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+hound = "3.5"
+raylib = { version = "6.0", features = ["SUPPORT_IMAGE_GENERATION"], optional = true }
+
+[[bin]]
+name = "play"
+path = "src/bin/play.rs"
+required-features = ["window"]
+
+[[bin]]
+name = "viewer"
+path = "src/bin/viewer.rs"
+required-features = ["window"]

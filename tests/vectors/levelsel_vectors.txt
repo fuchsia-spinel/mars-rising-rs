@@ -1,0 +1,480 @@
+lvl 1 353830 3,1 -> 1 | settext:31 select snd:34:4:0 settext:31 delay:30
+lvl 28 31 3,1 -> 1 | settext:31 select snd:34:4:0 settext:31 delay:30
+lvl 40 - 1 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+lvl 28 3432 4,1 -> 28 | settext:31 select snd:34:4:0 settext:3238 delay:30
+lvl 28 39 2 -> 0 | settext:31 select snd:34:4:0
+lvl 28 303333323234353338 3,1 -> 28 | settext:31 select snd:34:4:0 settext:3238 delay:30
+lvl 12 3133 2 -> 0 | settext:31 select snd:34:4:0
+lvl 28 31 1 -> 1 | settext:31 select snd:34:4:0 settext:31 delay:30
+lvl 39 353134 1,2 -> 39 | settext:31 select snd:34:4:0 settext:3339 delay:30
+lvl 31 32 2 -> 0 | settext:31 select snd:34:4:0
+lvl 1 - 5,2 -> 0 | settext:31 select snd:34:4:0
+lvl 5 - 4,1 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+lvl 5 34 3,1 -> 4 | settext:31 select snd:34:4:0 settext:34 delay:30
+lvl 28 373538353834373139 5,2 -> 0 | settext:31 select snd:34:4:0
+lvl 1 - 1 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+lvl 1 3935 5,2 -> 0 | settext:31 select snd:34:4:0
+lvl 18 3134 1,2 -> 14 | settext:31 select snd:34:4:0 settext:3134 delay:30
+lvl 28 30 4,1 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+lvl 28 393534 4,1 -> 28 | settext:31 select snd:34:4:0 settext:3238 delay:30
+lvl 28 303735 2 -> 0 | settext:31 select snd:34:4:0
+lvl 40 3430 2 -> 0 | settext:31 select snd:34:4:0
+lvl 5 32 2 -> 0 | settext:31 select snd:34:4:0
+lvl 5 36 2 -> 0 | settext:31 select snd:34:4:0
+lvl 5 383237353231373438 5,2 -> 0 | settext:31 select snd:34:4:0
+lvl 1 393034 1,2 -> 1 | settext:31 select snd:34:4:0 settext:31 delay:30
+lvl 5 34 5,2 -> 0 | settext:31 select snd:34:4:0
+lvl 28 3037 1,2 -> 7 | settext:31 select snd:34:4:0 settext:37 delay:30
+lvl 21 3634 5,2 -> 0 | settext:31 select snd:34:4:0
+lvl 1 353635 2 -> 0 | settext:31 select snd:34:4:0
+lvl 56 3535 2 -> 0 | settext:31 select snd:34:4:0
+lvl 1 373431363239393836 1,2 -> 1 | settext:31 select snd:34:4:0 settext:31 delay:30
+lvl 28 32 2 -> 0 | settext:31 select snd:34:4:0
+lvl 15 30 3,1 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+lvl 28 31 2 -> 0 | settext:31 select snd:34:4:0
+lvl 28 3036 4,1 -> 6 | settext:31 select snd:34:4:0 settext:36 delay:30
+lvl 40 - 3,1 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+lvl 1 - 1,2 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+lvl 5 313835303839343134 5,2 -> 0 | settext:31 select snd:34:4:0
+lvl 1 32 5,2 -> 0 | settext:31 select snd:34:4:0
+lvl 28 39 0,2 -> 0 | settext:31 select snd:34:4:0
+lvl 28 3135 1 -> 15 | settext:31 select snd:34:4:0 settext:3135 delay:30
+lvl 28 39 2 -> 0 | settext:31 select snd:34:4:0
+lvl 21 3636 3,1 -> 21 | settext:31 select snd:34:4:0 settext:3231 delay:30
+lvl 1 3636 2 -> 0 | settext:31 select snd:34:4:0
+lvl 40 34 4,1 -> 4 | settext:31 select snd:34:4:0 settext:34 delay:30
+lvl 1 37 2 -> 0 | settext:31 select snd:34:4:0
+lvl 28 - 0,2 -> 0 | settext:31 select snd:34:4:0
+lvl 1 - 4,1 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+lvl 5 30 3,1 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+lvl 1 31 1,2 -> 1 | settext:31 select snd:34:4:0 settext:31 delay:30
+lvl 35 30 0,2 -> 0 | settext:31 select snd:34:4:0
+lvl 1 32 1 -> 1 | settext:31 select snd:34:4:0 settext:31 delay:30
+lvl 57 3330 4,1 -> 30 | settext:31 select snd:34:4:0 settext:3330 delay:30
+lvl 40 373637 3,1 -> 40 | settext:31 select snd:34:4:0 settext:3430 delay:30
+lvl 1 3134 4,1 -> 1 | settext:31 select snd:34:4:0 settext:31 delay:30
+lvl 1 30 0,2 -> 0 | settext:31 select snd:34:4:0
+lvl 40 36 1 -> 6 | settext:31 select snd:34:4:0 settext:36 delay:30
+lvl 5 34 1 -> 4 | settext:31 select snd:34:4:0 settext:34 delay:30
+lvl 28 36 4,1 -> 6 | settext:31 select snd:34:4:0 settext:36 delay:30
+lvl 5 - 1 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+lvl 40 313234 0,2 -> 0 | settext:31 select snd:34:4:0
+lvl 28 3236 1 -> 26 | settext:31 select snd:34:4:0 settext:3236 delay:30
+lvl 28 - 4,1 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+lvl 28 30 1 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+lvl 5 3230 5,2 -> 0 | settext:31 select snd:34:4:0
+lvl 40 3735 5,2 -> 0 | settext:31 select snd:34:4:0
+lvl 28 3830 1,2 -> 28 | settext:31 select snd:34:4:0 settext:3238 delay:30
+lvl 40 31 1,2 -> 1 | settext:31 select snd:34:4:0 settext:31 delay:30
+lvl 1 3233 0,2 -> 0 | settext:31 select snd:34:4:0
+lvl 5 32 5,2 -> 0 | settext:31 select snd:34:4:0
+lvl 40 303131 0,2 -> 0 | settext:31 select snd:34:4:0
+lvl 5 30 4,1 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+lvl 28 3239 3,1 -> 28 | settext:31 select snd:34:4:0 settext:3238 delay:30
+lvl 9 3635 1,2 -> 9 | settext:31 select snd:34:4:0 settext:39 delay:30
+lvl 40 3435 1,2 -> 40 | settext:31 select snd:34:4:0 settext:3430 delay:30
+lvl 52 31 2 -> 0 | settext:31 select snd:34:4:0
+lvl 28 - 2 -> 0 | settext:31 select snd:34:4:0
+lvl 28 - 0,2 -> 0 | settext:31 select snd:34:4:0
+lvl 1 - 1,2 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+lvl 40 3537 3,1 -> 40 | settext:31 select snd:34:4:0 settext:3430 delay:30
+lvl 10 31 4,1 -> 1 | settext:31 select snd:34:4:0 settext:31 delay:30
+lvl 5 31 1,2 -> 1 | settext:31 select snd:34:4:0 settext:31 delay:30
+lvl 28 - 1 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+lvl 1 30 0,2 -> 0 | settext:31 select snd:34:4:0
+lvl 28 - 5,2 -> 0 | settext:31 select snd:34:4:0
+lvl 5 34 3,1 -> 4 | settext:31 select snd:34:4:0 settext:34 delay:30
+lvl 28 3635 2 -> 0 | settext:31 select snd:34:4:0
+lvl 1 31 0,2 -> 0 | settext:31 select snd:34:4:0
+lvl 28 33 4,1 -> 3 | settext:31 select snd:34:4:0 settext:33 delay:30
+lvl 1 - 0,2 -> 0 | settext:31 select snd:34:4:0
+lvl 50 3439 5,2 -> 0 | settext:31 select snd:34:4:0
+lvl 7 - 0,2 -> 0 | settext:31 select snd:34:4:0
+lvl 5 - 1 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+lvl 5 3635 4,1 -> 5 | settext:31 select snd:34:4:0 settext:35 delay:30
+lvl 40 31 1 -> 1 | settext:31 select snd:34:4:0 settext:31 delay:30
+lvl 40 31 1 -> 1 | settext:31 select snd:34:4:0 settext:31 delay:30
+lvl 40 37 4,1 -> 7 | settext:31 select snd:34:4:0 settext:37 delay:30
+lvl 34 30 1,2 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+lvl 5 333831323437313436 2 -> 0 | settext:31 select snd:34:4:0
+lvl 28 3331 3,1 -> 28 | settext:31 select snd:34:4:0 settext:3238 delay:30
+lvl 28 3330 1,2 -> 28 | settext:31 select snd:34:4:0 settext:3238 delay:30
+lvl 1 - 5,2 -> 0 | settext:31 select snd:34:4:0
+lvl 40 - 2 -> 0 | settext:31 select snd:34:4:0
+lvl 28 3230 4,1 -> 20 | settext:31 select snd:34:4:0 settext:3230 delay:30
+lvl 28 363832353134323234 5,2 -> 0 | settext:31 select snd:34:4:0
+lvl 28 - 1 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+lvl 28 - 5,2 -> 0 | settext:31 select snd:34:4:0
+lvl 1 3033 2 -> 0 | settext:31 select snd:34:4:0
+lvl 28 3237 2 -> 0 | settext:31 select snd:34:4:0
+lvl 28 38 2 -> 0 | settext:31 select snd:34:4:0
+lvl 5 36 2 -> 0 | settext:31 select snd:34:4:0
+lvl 5 3533 1 -> 5 | settext:31 select snd:34:4:0 settext:35 delay:30
+lvl 28 - 3,1 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+lvl 31 36 3,1 -> 6 | settext:31 select snd:34:4:0 settext:36 delay:30
+lvl 28 38 3,1 -> 8 | settext:31 select snd:34:4:0 settext:38 delay:30
+lvl 1 333039373635323233 1 -> 1 | settext:31 select snd:34:4:0 settext:31 delay:30
+lvl 28 3134 3,1 -> 14 | settext:31 select snd:34:4:0 settext:3134 delay:30
+lvl 1 3738 3,1 -> 1 | settext:31 select snd:34:4:0 settext:31 delay:30
+lvl 25 - 2 -> 0 | settext:31 select snd:34:4:0
+lvl 5 - 1 -> 0 | settext:31 select snd:34:4:0 settext:30 delay:30
+filt 1 5 00000078 cc57 -> 1 - | beep
+filt 1 5 0000002e 0000 -> 1 - | beep
+filt 1 3 00002c35 0900 -> 1 - | -
+filt 1 0 00000030 0000 -> 0 - | -
+filt 1 1 00000035 6ae0 -> 0 - | -
+filt 1 1 0000d841 0000 -> 0 - | -
+filt 0 4 00000061 0800 -> 0 - | -
+filt 0 3 00000008 0100 -> 0 - | -
+filt 1 3 00008935 0100 -> 1 - | -
+filt 1 7 0000007f 0000 -> 0 - | -
+filt 0 4 00007d41 0900 -> 0 - | -
+filt 1 1 00000f39 0000 -> 0 - | -
+filt 1 6 0000003a 0900 -> 0 - | -
+filt 1 3 00000008 0000 -> 0 - | -
+filt 1 5 0000002e 0800 -> 1 - | beep
+filt 1 5 00000078 7548 -> 1 - | -
+filt 1 0 0000007a 0000 -> 0 - | -
+filt 1 2 00000020 35b5 -> 0 - | -
+filt 1 2 0000003a 0800 -> 0 - | -
+filt 1 1 0000bf7a 5882 -> 0 - | -
+filt 1 3 00000078 0900 -> 1 - | -
+filt 1 1 00000120 0900 -> 0 - | -
+filt 1 1 000000c8 0000 -> 0 - | -
+filt 1 5 00000020 0800 -> 1 - | beep
+filt 0 2 00000035 0000 -> 0 - | -
+filt 1 4 00000039 0900 -> 0 - | -
+filt 1 3 0000007f 0000 -> 1 - | beep
+filt 1 3 00000008 0100 -> 1 - | -
+filt 0 3 0000421b 0000 -> 0 - | -
+filt 1 3 0000ea0d 0000 -> 1 1 | -
+filt 1 3 0000007a 0000 -> 1 - | beep
+filt 0 5 0000001b 0000 -> 0 - | -
+filt 1 2 00000078 0000 -> 0 - | -
+filt 1 0 0000007f 0900 -> 0 - | -
+filt 0 0 00000061 0200 -> 0 - | -
+filt 1 4 0000001b 0900 -> 0 - | -
+filt 0 3 0000ba30 0000 -> 0 - | -
+filt 1 2 0000c300 0900 -> 0 - | -
+filt 1 3 0000000d 0800 -> 1 1 | -
+filt 0 2 0000ba00 0000 -> 0 - | -
+filt 1 4 0000be1b 0100 -> 0 - | -
+filt 1 3 0000002f 0200 -> 1 - | beep
+filt 1 1 0000bc78 f492 -> 0 - | -
+filt 1 6 0000062e 0100 -> 0 - | -
+filt 1 5 00006c03 0100 -> 1 - | -
+filt 1 3 00000003 0000 -> 1 1 | -
+filt 0 3 0000000d e110 -> 0 - | -
+filt 1 7 00000008 0200 -> 0 - | -
+filt 0 4 00000035 279e -> 0 - | -
+filt 1 3 0000002f 0200 -> 1 - | beep
+filt 1 4 0000202e 0000 -> 0 - | -
+filt 1 6 00002d00 0800 -> 0 - | -
+filt 1 3 00008d39 0100 -> 1 - | -
+filt 1 3 00000030 0900 -> 1 - | -
+filt 1 7 00000041 0100 -> 0 - | -
+filt 1 6 00000003 0000 -> 0 - | -
+filt 1 5 00000003 0000 -> 1 1 | -
+filt 1 6 0000e27f 0000 -> 0 - | -
+filt 1 7 0000eb1b 0000 -> 0 - | -
+filt 1 1 00000078 846e -> 0 - | -
+filt 1 3 0000000d a545 -> 1 - | -
+filt 0 4 0000002e 0800 -> 0 - | -
+filt 1 5 0000281b d9b4 -> 1 - | -
+filt 0 2 0000fb7a 56ef -> 0 - | -
+filt 1 0 0000fc2e 0100 -> 0 - | -
+filt 1 4 0000003a 0200 -> 0 - | -
+filt 1 3 00008730 0000 -> 0 - | -
+filt 1 1 00009139 0000 -> 0 - | -
+filt 0 2 00000039 0000 -> 0 - | -
+filt 0 3 00009508 0900 -> 0 - | -
+filt 0 1 00005c1b 0000 -> 0 - | -
+filt 0 1 00007300 0000 -> 0 - | -
+filt 1 7 00000008 0800 -> 0 - | -
+filt 1 5 00007d78 0000 -> 1 - | beep
+filt 1 7 00003a3a 0200 -> 0 - | -
+filt 0 4 00004403 0100 -> 0 - | -
+filt 1 3 00009c2f 1b6e -> 1 - | -
+filt 1 5 0000003a 0200 -> 1 - | beep
+filt 1 7 0000ce30 0100 -> 0 - | -
+filt 1 5 00007708 0100 -> 1 - | -
+filt 1 7 0000001b 8398 -> 0 - | -
+filt 1 5 00008008 0000 -> 0 - | -
+filt 1 3 0000f60d 0200 -> 1 1 | -
+filt 1 0 0000d735 0900 -> 0 - | -
+filt 1 2 00000035 0000 -> 0 - | -
+filt 0 2 00000035 0200 -> 0 - | -
+filt 0 6 0000a700 0100 -> 0 - | -
+filt 0 7 0000000d f72a -> 0 - | -
+filt 1 0 00000041 0000 -> 0 - | -
+filt 1 2 00000061 0900 -> 0 - | -
+filt 1 4 0000007f 0200 -> 0 - | -
+filt 1 3 00000041 0900 -> 1 - | -
+filt 1 3 0000e308 0200 -> 0 - | -
+filt 1 2 0000077f 0100 -> 0 - | -
+filt 1 2 00000000 f057 -> 0 - | -
+filt 1 5 0000ee1b 0000 -> 1 2 | flash:2
+filt 0 5 0000007a 0100 -> 0 - | -
+filt 1 5 00000020 0100 -> 1 - | -
+filt 0 0 00009903 0900 -> 0 - | -
+filt 0 2 00000008 0100 -> 0 - | -
+filt 1 4 00000d00 8c3d -> 0 - | -
+filt 1 7 00000030 0900 -> 0 - | -
+filt 0 7 0000003a 0100 -> 0 - | -
+filt 1 3 00000030 0100 -> 1 - | -
+filt 1 3 00000008 0800 -> 0 - | -
+filt 1 7 00004c35 0000 -> 0 - | -
+filt 1 5 00000000 0000 -> 1 - | beep
+filt 0 2 00001d20 bd42 -> 0 - | -
+filt 1 6 00000000 0900 -> 0 - | -
+filt 1 4 0000007f 0100 -> 0 - | -
+filt 0 3 00000008 244d -> 0 - | -
+filt 1 1 0000a639 0100 -> 0 - | -
+filt 1 3 00003f03 0000 -> 1 1 | -
+filt 1 5 0000002f 6ed3 -> 1 - | beep
+filt 1 2 0000e67f 0100 -> 0 - | -
+filt 1 1 0000c035 0900 -> 0 - | -
+filt 1 2 00000020 0000 -> 0 - | -
+filt 1 3 00000020 0800 -> 1 - | beep
+filt 1 5 0000e739 0100 -> 1 - | -
+filt 1 3 0000b130 2fe1 -> 1 - | -
+filt 0 7 0000007a 0900 -> 0 - | -
+filt 1 2 0000131b 0800 -> 0 - | -
+filt 0 6 0000e408 0200 -> 0 - | -
+filt 1 6 00000008 0000 -> 0 - | -
+filt 1 3 00007635 0900 -> 1 - | -
+filt 0 3 00000061 ca6c -> 0 - | -
+filt 0 0 0000a361 0000 -> 0 - | -
+filt 0 3 00000020 0000 -> 0 - | -
+filt 0 4 00000000 0100 -> 0 - | -
+filt 0 3 0000d230 0900 -> 0 - | -
+filt 1 3 0000007a dfee -> 1 - | -
+filt 1 3 00006378 0100 -> 1 - | -
+filt 0 6 00003a2f 0000 -> 0 - | -
+filt 1 3 00000620 0100 -> 1 - | -
+filt 0 0 00006830 0100 -> 0 - | -
+filt 1 3 00000841 0000 -> 1 - | beep
+filt 1 1 00002135 0800 -> 0 - | -
+filt 1 3 00008a7f 0000 -> 1 - | beep
+filt 0 2 00000041 0000 -> 0 - | -
+filt 1 5 00000041 0900 -> 1 - | -
+filt 1 3 000085c8 01d2 -> 1 - | -
+filt 1 1 0000001b 0800 -> 0 - | -
+filt 1 6 000000c8 0900 -> 0 - | -
+filt 1 3 00000030 972b -> 1 - | -
+filt 1 7 0000000d 0100 -> 0 - | -
+filt 1 6 00007935 0900 -> 0 - | -
+filt 1 3 0000562e 3cdc -> 1 - | beep
+filt 1 5 00000035 0100 -> 1 - | -
+filt 0 5 00000008 b173 -> 0 - | -
+filt 1 3 0000000d 0200 -> 1 1 | -
+filt 0 3 000000c8 0100 -> 0 - | -
+filt 1 5 0000003a 0000 -> 1 - | beep
+filt 1 5 00000f61 0200 -> 1 - | beep
+filt 1 3 00000078 0000 -> 1 - | beep
+filt 1 3 00000008 0100 -> 1 - | -
+filt 1 4 00000000 2270 -> 0 - | -
+filt 0 5 0000f42e 0900 -> 0 - | -
+filt 1 3 0000002f 0800 -> 1 - | beep
+filt 1 3 0000007f 0900 -> 1 - | -
+filt 1 6 00007403 d580 -> 0 - | -
+filt 0 5 00000061 efb0 -> 0 - | -
+filt 0 5 00000041 0100 -> 0 - | -
+filt 1 1 00000008 0000 -> 0 - | -
+filt 1 0 000000c8 0000 -> 0 - | -
+filt 1 1 00005e7f 0000 -> 0 - | -
+filt 1 4 0000003a 0100 -> 0 - | -
+filt 1 5 0000a52f 0800 -> 1 - | beep
+filt 1 5 00008103 0200 -> 1 1 | -
+filt 1 7 00002241 fe13 -> 0 - | -
+filt 1 3 0000ba7f 0000 -> 1 - | beep
+filt 1 1 0000922e 0800 -> 0 - | -
+filt 1 3 00000008 0200 -> 0 - | -
+filt 1 5 0000002f 0100 -> 1 - | -
+filt 1 1 00004a00 0800 -> 0 - | -
+filt 1 2 0000d903 0000 -> 0 - | -
+filt 1 3 0000002f 0000 -> 1 - | beep
+filt 1 3 00000035 0100 -> 1 - | -
+filt 1 5 0000df35 0000 -> 0 - | -
+filt 0 5 00000035 0000 -> 0 - | -
+filt 1 5 0000d81b 0000 -> 1 2 | flash:2
+filt 1 7 0000002f 6253 -> 0 - | -
+filt 1 3 0000002e 0000 -> 1 - | beep
+filt 0 4 0000000d 0800 -> 0 - | -
+filt 1 3 000074c8 f9d9 -> 1 - | -
+filt 1 1 00009530 0000 -> 0 - | -
+filt 0 0 0000d961 0100 -> 0 - | -
+filt 1 3 0000001b 0100 -> 1 - | -
+filt 1 5 000000c8 44a1 -> 1 - | beep
+filt 1 3 0000efc8 0000 -> 1 - | beep
+filt 0 3 00000020 0000 -> 0 - | -
+filt 1 7 00000020 0800 -> 0 - | -
+filt 1 3 00000061 0900 -> 1 - | -
+filt 1 6 00007030 0000 -> 0 - | -
+filt 1 0 00000008 dae7 -> 0 - | -
+filt 1 4 0000ca7a 0000 -> 0 - | -
+filt 0 3 0000d341 0200 -> 0 - | -
+filt 1 5 00001739 0800 -> 0 - | -
+filt 1 1 000098c8 0200 -> 0 - | -
+filt 1 6 00000039 0100 -> 0 - | -
+filt 0 3 00008a78 0100 -> 0 - | -
+filt 1 4 00000061 0200 -> 0 - | -
+filt 1 0 0000df3a 0100 -> 0 - | -
+filt 1 6 00006839 0100 -> 0 - | -
+filt 1 6 0000cbc8 0800 -> 0 - | -
+filt 1 3 00009139 caf2 -> 0 - | -
+filt 1 3 0000001b 0000 -> 1 2 | flash:2
+filt 0 7 00000008 44aa -> 0 - | -
+filt 0 0 000000c8 0200 -> 0 - | -
+filt 1 5 00003a3a 0100 -> 1 - | -
+filt 1 3 00007735 0900 -> 1 - | -
+filt 1 2 00000000 6e62 -> 0 - | -
+filt 1 3 00006b0d 0900 -> 1 - | -
+filt 0 3 0000f808 bc3e -> 0 - | -
+filt 1 7 0000002e 0200 -> 0 - | -
+filt 1 7 00001303 0100 -> 0 - | -
+filt 1 6 00000000 0900 -> 0 - | -
+filt 1 3 0000da20 0000 -> 1 - | beep
+filt 1 3 0000473a 0800 -> 1 - | beep
+filt 0 1 00002639 0000 -> 0 - | -
+filt 1 1 0000612f 0900 -> 0 - | -
+filt 1 4 00000041 0100 -> 0 - | -
+filt 1 7 0000d335 0100 -> 0 - | -
+filt 1 2 0000e12e 0000 -> 0 - | -
+filt 1 7 00000020 fdce -> 0 - | -
+filt 0 1 00000000 0100 -> 0 - | -
+filt 1 6 0000001b 0000 -> 0 - | -
+filt 1 5 0000000d 792a -> 1 - | -
+filt 1 3 00001478 0100 -> 1 - | -
+filt 0 3 0000ed30 0100 -> 0 - | -
+filt 1 2 0000c67a 0000 -> 0 - | -
+filt 1 6 000071c8 0900 -> 0 - | -
+filt 1 2 00000078 0100 -> 0 - | -
+filt 1 5 00000008 0100 -> 1 - | -
+filt 1 7 0000003a 0100 -> 0 - | -
+filt 0 2 0000abc8 0100 -> 0 - | -
+filt 1 3 0000002e 0000 -> 1 - | beep
+filt 1 5 0000b92e 0000 -> 1 - | beep
+filt 0 3 000000c8 77b6 -> 0 - | -
+filt 1 5 0000bc61 0900 -> 1 - | -
+filt 1 0 00007430 0000 -> 0 - | -
+filt 1 5 00000039 0800 -> 0 - | -
+filt 0 5 00000078 0200 -> 0 - | -
+filt 0 3 0000007f 0000 -> 0 - | -
+filt 1 3 0000007f 0100 -> 1 - | -
+filt 1 3 0000282e 0000 -> 1 - | beep
+filt 1 3 0000851b 0900 -> 1 - | -
+filt 1 4 0000e235 0100 -> 0 - | -
+filt 1 2 0000007a 0100 -> 0 - | -
+filt 1 3 0000b478 0900 -> 1 - | -
+filt 1 3 0000aa20 0900 -> 1 - | -
+filt 1 7 00009778 0000 -> 0 - | -
+filt 0 5 0000ff7a 0800 -> 0 - | -
+filt 1 2 00000041 0000 -> 0 - | -
+filt 1 2 0000b2c8 0100 -> 0 - | -
+filt 1 3 00004a41 0200 -> 1 - | beep
+filt 0 5 00000000 0900 -> 0 - | -
+filt 1 2 00000061 0100 -> 0 - | -
+filt 1 3 0000007a 0000 -> 1 - | beep
+filt 1 7 00004e00 2d13 -> 0 - | -
+filt 1 7 00006f61 0100 -> 0 - | -
+filt 1 5 00004a00 0000 -> 1 - | beep
+filt 1 1 00008508 db46 -> 0 - | -
+filt 1 3 0000fbc8 0900 -> 1 - | -
+filt 0 3 00000439 0000 -> 0 - | -
+filt 1 3 0000c21b 72e8 -> 1 2 | flash:2
+filt 1 5 0000003a 0100 -> 1 - | -
+filt 1 4 0000b378 0100 -> 0 - | -
+filt 1 5 0000002f 0900 -> 1 - | -
+filt 1 2 0000b63a 0800 -> 0 - | -
+filt 1 3 0000c603 0100 -> 1 - | -
+filt 1 3 0000ac39 0100 -> 1 - | -
+filt 1 4 00009c41 0100 -> 0 - | -
+filt 1 7 00000078 0200 -> 0 - | -
+filt 0 7 00000003 0800 -> 0 - | -
+filt 1 4 0000007a 08eb -> 0 - | -
+filt 1 2 0000122f 0200 -> 0 - | -
+filt 1 5 0000001b 0000 -> 1 2 | flash:2
+filt 1 0 0000de03 0200 -> 0 - | -
+filt 1 4 0000007f 0000 -> 0 - | -
+filt 1 3 00000078 0000 -> 1 - | beep
+filt 1 2 0000461b 0900 -> 0 - | -
+filt 1 0 00000000 0100 -> 0 - | -
+filt 1 2 00006520 0100 -> 0 - | -
+filt 1 7 000000c8 0100 -> 0 - | -
+filt 1 6 0000002e 0100 -> 0 - | -
+filt 1 5 0000007f 0100 -> 1 - | -
+filt 1 5 00008900 89d9 -> 1 - | -
+filt 1 7 00000003 0100 -> 0 - | -
+filt 1 3 000000c8 0100 -> 1 - | -
+filt 1 3 00000039 cf36 -> 1 - | -
+filt 1 3 00005361 0900 -> 1 - | -
+filt 1 4 00000041 010f -> 0 - | -
+filt 1 3 0000007f 0100 -> 1 - | -
+filt 1 2 0000de7f 0100 -> 0 - | -
+filt 1 5 00008f39 0200 -> 0 - | -
+filt 0 6 0000b308 0800 -> 0 - | -
+filt 1 1 0000002e b0d3 -> 0 - | -
+filt 1 3 0000601b 0100 -> 1 - | -
+filt 1 1 00001c0d 0200 -> 0 - | -
+filt 0 3 0000af08 0000 -> 0 - | -
+filt 1 3 00000020 0900 -> 1 - | -
+filt 1 6 00007e39 0100 -> 0 - | -
+filt 0 3 0000007a 0800 -> 0 - | -
+filt 0 5 0000007f 0200 -> 0 - | -
+filt 1 5 0000007a 0100 -> 1 - | -
+filt 0 3 000000c8 0800 -> 0 - | -
+filt 0 3 00000000 0200 -> 0 - | -
+filt 0 5 00006435 f867 -> 0 - | -
+filt 1 0 0000eb03 0000 -> 0 - | -
+filt 1 3 00004608 0100 -> 1 - | -
+filt 1 3 0000cd2e 0100 -> 1 2 | flash:2
+filt 1 6 00000003 0900 -> 0 - | -
+filt 0 3 00000003 0100 -> 0 - | -
+filt 0 1 00000020 0100 -> 0 - | -
+filt 1 5 000065c8 0000 -> 1 - | beep
+filt 0 5 00003841 0100 -> 0 - | -
+filt 1 2 000000c8 cf29 -> 0 - | -
+filt 1 3 00000041 0200 -> 1 - | beep
+filt 1 3 0000db41 5f3c -> 1 - | -
+filt 0 6 0000007a 0900 -> 0 - | -
+filt 1 4 0000ff78 0900 -> 0 - | -
+filt 1 5 0000f730 0100 -> 1 - | -
+filt 1 6 0000003a 0000 -> 0 - | -
+filt 1 6 00000008 0900 -> 0 - | -
+filt 1 3 00008708 0200 -> 0 - | -
+filt 1 5 00000030 0000 -> 0 - | -
+filt 1 5 0000ed35 0000 -> 0 - | -
+filt 1 6 0000bec8 0200 -> 0 - | -
+filt 1 3 00000078 0100 -> 1 - | -
+filt 0 1 00000000 0900 -> 0 - | -
+filt 0 1 00001335 0800 -> 0 - | -
+filt 1 3 0000002f 0100 -> 1 - | -
+filt 1 3 00000020 0900 -> 1 - | -
+filt 1 1 00000039 0000 -> 0 - | -
+filt 1 1 00000008 0100 -> 0 - | -
+filt 1 2 00000061 0100 -> 0 - | -
+filt 1 0 0000000d 0000 -> 0 - | -
+filt 0 5 0000002e 0100 -> 0 - | -
+filt 1 1 00009161 6a0f -> 0 - | -
+filt 1 2 000000c8 0100 -> 0 - | -
+filt 0 5 00000000 0100 -> 0 - | -
+filt 1 5 00006103 0000 -> 1 1 | -
+filt 1 3 00000061 0000 -> 1 - | beep
+filt 0 0 00000835 0000 -> 0 - | -
+filt 0 5 00000039 0000 -> 0 - | -
+filt 0 5 00000003 0100 -> 0 - | -
+filt 1 3 0000ed30 b66a -> 0 - | -
+filt 1 3 00007d3a 0100 -> 1 - | -
+filt 1 3 00000008 0000 -> 0 - | -
+filt 1 6 00000020 0100 -> 0 - | -
+filt 1 2 00004b30 0200 -> 0 - | -
+filt 1 4 00000061 0200 -> 0 - | -
+filt 0 7 00004700 0100 -> 0 - | -
+filt 1 2 00000041 748f -> 0 - | -
+filt 1 0 0000d335 0000 -> 0 - | -
+filt 1 3 00004208 0000 -> 0 - | -
+filt 1 3 00001630 0000 -> 0 - | -
+filt 1 0 0000e908 0100 -> 0 - | -
+filt 1 0 00005c39 0800 -> 0 - | -
+filt 1 5 000015c8 5876 -> 1 - | beep
